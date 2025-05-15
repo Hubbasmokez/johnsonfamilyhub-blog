@@ -1,3 +1,12 @@
-title: "Christian's Blog"
-description: "My IT journey into homelabs, automation, and self-hosting."
-theme: jekyll-theme-minimal
+title: Christian Johnson's Blog
+email: christian@johnsonfamilyhub.com
+description: >-
+  Documenting my journey into homelabs, automation, and self-hosting.
+theme: "minimal-mistakes-jekyll"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
