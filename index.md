@@ -7,7 +7,7 @@ title: Christian Johnson – IT Portfolio
 
 I'm a self-taught IT enthusiast passionate about hands-on learning. I’ve been building my own homelab, experimenting with automation, and diving into tools like Proxmox, Docker, and pfSense — all while documenting my progress to help others and track my growth.
 
-[📖 Visit My Blog](/blog){: .button }
+[📖 Visit My Blog](https://blog.johnsonfamilyhub.com){: .button }
 
 ---
 
