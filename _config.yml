@@ -3,8 +3,11 @@ email: christian@johnsonfamilyhub.com
 description: >
   Documenting my journey into homelabs, automation, and self-hosting.
 
-baseurl: ""
-url: "/blog"
+# This should be your full root domain
+url: "https://johnsonfamilyhub.com"
+
+# This is the subpath (because you're hosting it at johnsonfamilyhub.com/blog)
+baseurl: "/blog"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -14,3 +17,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-include-cache
+
