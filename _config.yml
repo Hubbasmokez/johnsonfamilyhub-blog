@@ -3,7 +3,8 @@ email: christian@johnsonfamilyhub.com
 description: >
   Documenting my journey into homelabs, automation, and self-hosting.
 
-baseurl: "" # ✅ This is correct for a custom subdomain
+baseurl: ""
+url: "https://blog.johnsonfamilyhub.com"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
