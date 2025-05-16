@@ -1,1 +1,1 @@
-Sitemap: https://blog.johnsonfamilyhub.com/sitemap.xml
+Sitemap: /blog/sitemap.xml
