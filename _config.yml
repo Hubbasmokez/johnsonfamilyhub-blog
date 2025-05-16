@@ -3,6 +3,8 @@ email: christian@johnsonfamilyhub.com
 description: >-
   Documenting my journey into homelabs, automation, and self-hosting.
 
+baseurl: ""
+
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
