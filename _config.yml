@@ -1,9 +1,9 @@
 title: Christian Johnson's Blog
 email: christian@johnsonfamilyhub.com
-description: >-
+description: >
   Documenting my journey into homelabs, automation, and self-hosting.
 
-baseurl: ""
+baseurl: "" # ✅ This is correct for a custom subdomain
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -13,4 +13,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-include-cache
-
